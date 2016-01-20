@@ -1,10 +1,13 @@
-#Richard Tran
+print('Hello World!')
+print('Choose a language and I will greet you in that language')
 
-# write a program that:
-# 1. greets the user in English
-# 2. asks the user to choose from 1 of 3 spoken languages (pick your favorite languages!) 
-# 3. displays the greeting in the chosen language
-# 4. exits
+print('Latin')
+print('Spanish')
+print('Vietnamese')
 
-# make sure that your code contains comments explaining your logic!
+Latin = 'Salve'
+
+Spanish = 'Hola'
+
+Vietnamese = 'Xin Chao'
 
