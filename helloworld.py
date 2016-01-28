@@ -15,3 +15,5 @@ elif language == '2':
 elif language == '3':
     print('Xin Ciao!')
 
+elif language != 'Latin"Spanish"Vietnamese':
+    print('Something went wrong!')
